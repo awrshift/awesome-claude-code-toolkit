@@ -100,6 +100,7 @@ One hundred twenty-one production-ready plugins that extend Claude Code with dom
 | [desktop-app](plugins/desktop-app/) | Desktop application scaffolding with Electron or Tauri |
 | [devops-automator](plugins/devops-automator/) | DevOps automation scripts for CI/CD, health checks, and deployments |
 | [discuss](plugins/discuss/) | Debate implementation approaches with structured pros and cons analysis |
+| [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) | Personal genome analysis toolkit that analyzes raw DNA data across 17 categories and generates a terminal-style HTML dashboard |
 | [doc-forge](plugins/doc-forge/) | Documentation generation, API docs, and README maintenance |
 | [docker-helper](plugins/docker-helper/) | Build optimized Docker images and improve Dockerfile best practices |
 | [double-check](plugins/double-check/) | Verify code correctness with systematic second-pass analysis |
