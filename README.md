@@ -135,6 +135,7 @@ One hundred twenty-one production-ready plugins that extend Claude Code with dom
 | [mutation-tester](plugins/mutation-tester/) | Mutation testing to measure test suite quality |
 | [n8n-workflow](plugins/n8n-workflow/) | Generate n8n automation workflows from natural language descriptions |
 | [onboarding-guide](plugins/onboarding-guide/) | New developer onboarding documentation generator |
+| [onWatch](https://github.com/onllm-dev/onwatch) | Open-source Go CLI that tracks AI API quota usage across 7 providers (Synthetic, Z.ai, Anthropic, Codex, GitHub Copilot, MiniMax, Antigravity) with a background daemon (<50 MB RAM), zero telemetry, and a Material Design 3 web dashboard |
 | [openapi-expert](plugins/openapi-expert/) | OpenAPI spec generation, validation, and client code scaffolding |
 | [optimize](plugins/optimize/) | Code optimization for performance and bundle size reduction |
 | [perf-profiler](plugins/perf-profiler/) | Performance analysis, profiling, and optimization recommendations |
