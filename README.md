@@ -136,6 +136,7 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [experiment-tracker](plugins/experiment-tracker/) | ML experiment tracking with metrics logging and run comparison |
 | [explore](plugins/explore/) | Smart codebase exploration with dependency mapping and structure analysis |
 | [feature-dev](plugins/feature-dev/) | Full feature development workflow from spec to completion |
+| [fractal](https://github.com/rmolines/fractal) | Recursive project management plugin. Decomposes any goal into verifiable predicates, works on the riskiest unknown first. Features `/fractal:run` (idempotent state machine), `/fractal:init`, `/fractal:patch`, dry run mode, and incremental decomposition with re-evaluation. |
 | [finance-tracker](plugins/finance-tracker/) | Development cost tracking with time estimates and budget reporting |
 | [fix-github-issue](plugins/fix-github-issue/) | Auto-fix GitHub issues by analyzing issue details and implementing solutions |
 | [fix-pr](plugins/fix-pr/) | Fix PR review comments automatically with context-aware patches |
