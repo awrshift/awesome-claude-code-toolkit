@@ -818,6 +818,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [myclaude](https://github.com/stellarlinkco/myclaude) | 2,400+ | Multi-agent orchestration routing to Claude Code, Codex, Gemini, and OpenCode |
 | [claude-code-mcp](https://github.com/steipete/claude-code-mcp) | 1,100+ | Run Claude Code as a one-shot MCP server -- an agent in your agent |
 | [ccmanager](https://github.com/kbwo/ccmanager) | 940+ | Session manager supporting 8 coding agents with smart auto-approval |
+| [zclean](https://github.com/whynowlab/zclean) | 19+ | Kills orphaned processes left behind by Claude Code and Codex. Stops zombie node/python/esbuild from eating your RAM |
 
 ---
 
