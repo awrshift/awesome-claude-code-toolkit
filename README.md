@@ -196,6 +196,7 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [pulse](https://github.com/chsm04/pulse) | Local Channel plugin — push notifications into Claude Code sessions via HTTP POST. No Discord/Slack needed, just curl. Three levels (info/warn/error), source tracking, dedup. |
 | [PUIUX Pilot](https://github.com/PUIUX-Cloud/puiux-pilot) | Auto-configures Claude Code hooks, MCPs, and skills for any project. Scans 95+ project types, selects from 28+ hooks, scores quality (0-100), translates configs across AI tools. Safe: dry-run, atomic writes, backup + rollback. |
 | [python-expert](plugins/python-expert/) | Python-specific development with type hints and idiomatic refactoring |
+| [pulser](https://github.com/whynowlab/pulser) | Diagnostic CLI for Claude Code SKILL.md files — scans 8 rules, auto-classifies, prescribes fixes with templates, --fix with rollback |
 | [query-optimizer](plugins/query-optimizer/) | SQL query optimization and execution plan analysis |
 | [rag-builder](plugins/rag-builder/) | Build Retrieval-Augmented Generation pipelines |
 | [rapid-prototyper](plugins/rapid-prototyper/) | Quick prototype scaffolding with minimal viable structure |
