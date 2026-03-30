@@ -1,12 +1,12 @@
 # Claude Code Toolkit
 
-**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 150+ plugins, 20 hooks, 15 rules, 7 templates, 8 MCP configs, and more.**
+**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 9 MCP configs, 24 companion apps, and more.**
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-orange.svg)](#)
-[![Files](https://img.shields.io/badge/Files-800+-blueviolet.svg)](#project-structure)
+[![Files](https://img.shields.io/badge/Files-850+-blueviolet.svg)](#project-structure)
 
 ---
 
@@ -34,14 +34,14 @@ curl -fsSL https://raw.githubusercontent.com/rohitg00/awesome-claude-code-toolki
 
 ## Table of Contents
 
-- [Plugins](#plugins) (150+)
+- [Plugins](#plugins) (176+)
 - [Agents](#agents) (135)
-- [Skills](#skills) (35 curated + community)
+- [Skills](#skills) (35 curated + 28 community)
 - [Commands](#commands) (42)
 - [Hooks](#hooks) (20 scripts)
 - [Rules](#rules) (15)
 - [Templates](#templates) (7)
-- [MCP Configs](#mcp-configs) (8)
+- [MCP Configs](#mcp-configs) (9)
 - [Contexts](#contexts) (5)
 - [Examples](#examples) (3)
 - [Companion Apps & GUIs](#companion-apps--guis)
@@ -53,7 +53,7 @@ curl -fsSL https://raw.githubusercontent.com/rohitg00/awesome-claude-code-toolki
 
 ## Plugins
 
-Over 150 production-ready plugins that extend Claude Code with domain-specific capabilities.
+Over 176 production-ready plugins that extend Claude Code with domain-specific capabilities.
 
 ### Featured
 
@@ -824,7 +824,7 @@ The interactive installer clones the repo, symlinks configs, and installs plugin
 ## Project Structure
 
 ```
-claude-code-toolkit/               800+ files
+claude-code-toolkit/               850+ files
   plugins/                         150+ plugins (220 command files + external)
   agents/                          135 agents across 10 categories
     core-development/              13 agents
