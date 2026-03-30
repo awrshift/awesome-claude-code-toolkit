@@ -520,6 +520,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [Overnight Worker](https://github.com/fullstackcrew-alpha/skill-overnight-worker) | `git clone https://github.com/fullstackcrew-alpha/skill-overnight-worker` | Autonomous overnight work agent — assign tasks before sleep, get structured results by morning with smart task decomposition, web research, and push notifications |
 | [Smart PR Review](https://github.com/fullstackcrew-alpha/skill-smart-pr-review) | `git clone https://github.com/fullstackcrew-alpha/skill-smart-pr-review` | Opinionated AI code reviewer with 6-layer deep review, Devil's Advocate mode, and standardized MUST FIX / SHOULD FIX / SUGGESTION output for TS/JS, Python, Go, Rust |
 | [DevOps Agent](https://github.com/fullstackcrew-alpha/skill-devops-agent) | `git clone https://github.com/fullstackcrew-alpha/skill-devops-agent` | One-click deploy, monitoring setup (Prometheus+Grafana), scheduled backups, and fault diagnosis with safety-first design including confirmation prompts, dry-run, and snapshot rollback |
+| [CN Content Matrix](https://github.com/fullstackcrew-alpha/skill-cn-content-matrix) | `git clone https://github.com/fullstackcrew-alpha/skill-cn-content-matrix` | Chinese multi-platform content generator for Xiaohongshu, WeChat, Douyin, and Bilibili with true style transfer, compliance review, and sensitive word detection |
 ### Installing Skills
 
 **Browse and install via SkillKit** (recommended):
