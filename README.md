@@ -49,7 +49,7 @@ curl -fsSL https://raw.githubusercontent.com/rohitg00/awesome-claude-code-toolki
 - [Hooks](#hooks) (20 scripts)
 - [Rules](#rules) (15)
 - [Templates](#templates) (7)
-- [MCP Configs](#mcp-configs) (13)
+- [MCP Configs](#mcp-configs) (14)
 - [Contexts](#contexts) (5)
 - [Examples](#examples) (3)
 - [Companion Apps & GUIs](#companion-apps--guis)
@@ -805,6 +805,7 @@ Thirteen curated Model Context Protocol server configurations.
 | Design | [`design.json`](mcp-configs/design.json) | Figma design context, Blender 3D automation |
 | Workflow Automation | [`workflow-automation.json`](mcp-configs/workflow-automation.json) | n8n workflow builder, Pipedream integration |
 | Mobile | [`mobile.json`](mcp-configs/mobile.json) | Android ADB automation, Xcode build tools |
+| Finance | [`finance.json`](mcp-configs/finance.json) | Chart Library pattern intelligence, Fetch, Memory |
 
 ---
 
