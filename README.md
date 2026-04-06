@@ -905,6 +905,7 @@ claude-code-toolkit/               850+ files
 | [CCHub](https://github.com/Moresl/cchub) | New | Tauri 2.0 desktop app for managing the full Claude Code ecosystem -- MCP servers, skills, hooks, config profiles. Auto-scans Claude Code, Claude Desktop, Cursor configs |
 | [AionUI](https://github.com/iOfficeAI/AionUi) | 20,500+ | Free local open-source 24/7 Cowork app for Gemini CLI, Claude Code, Codex, and OpenCode |
 | [chops](https://github.com/Shpigford/chops) | 1,000+ | macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp |
+| [Onepilot](https://onepilotapp.com) | - | iOS app for running Claude Code, Codex, and other coding agents on remote servers via SSH from your phone. Full terminal emulator with SwiftTerm, agent session management, mobile access to dev machines |
 
 ---
 
