@@ -258,6 +258,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [claude-sounds](https://github.com/culminationAI/claude-sounds) | Audio feedback for Claude Code hooks -- 10 events, 21 sounds, random rotation, customizable (macOS) |
 
 | [notch-so-good](https://github.com/deepshal99/notch-so-good) | Pixel-art crab (Chawd) lives in your Mac's notch and watches Claude Code for you. Live session timers, color-coded notifications, 13 idle animations, mouse-reactive eyes, drowsiness system. Universal binary, one-line install: `npx notch-so-good`. MIT, 130+ users |
+| [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) | Code intelligence MCP server — 42-language tree-sitter AST parsing, FalkorDB knowledge graphs, 0.944 MRR search quality. npm: `@anthropic/codegraph` |
 
 ### Installing a Plugin
 
@@ -462,6 +463,7 @@ One hundred thirty-five specialized agents organized into ten categories. Each a
 | Security Researcher | [`security-researcher.md`](agents/research-analysis/security-researcher.md) | CVE analysis, threat modeling, attack surface |
 | Benchmarking Specialist | [`benchmarking-specialist.md`](agents/research-analysis/benchmarking-specialist.md) | Performance benchmarks, comparative evals |
 | Technology Scout | [`technology-scout.md`](agents/research-analysis/technology-scout.md) | Emerging tech evaluation, build-vs-buy analysis |
+| agntk | [npx agntk](https://github.com/Phoenixrr2113/agntk) | Zero-config AI agent CLI with 20+ tools, persistent memory, Ollama auto-detection, and free tier |
 
 ### Using Agents
 
