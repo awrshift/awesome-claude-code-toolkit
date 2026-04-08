@@ -205,6 +205,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [openapi-expert](plugins/openapi-expert/) | OpenAPI spec generation, validation, and client code scaffolding |
 | [optimize](plugins/optimize/) | Code optimization for performance and bundle size reduction |
 | [oss-autopilot](https://github.com/costajohnt/oss-autopilot) | Open source contribution manager — tracks PRs across repos, discovers issues, diagnoses CI failures, drafts maintainer responses. 7 agents, interactive commands, MCP server. Install: `/plugin marketplace add costajohnt/oss-autopilot` |
+| [paco-framework](https://github.com/PenguinAlleyApps/paco-framework) | 1+ | Markdown-first multi-agent OS for Claude Code. Coordinates 3-16 specialized AI agents (Engineering, QA, Growth, Finance) with file-based dispatch, institutional memory, CEO Gate approval, and 24/7 scheduling. No Python required. MIT |
 | [peon-ping](https://github.com/PeonPing/peon-ping) | Warcraft III Peon voice notifications (+ StarCraft, Portal, Zelda) for Claude Code and other agents. Desktop banners, auto-detects SSH/devcontainers. 3,900+ stars |
 | [perf-profiler](plugins/perf-profiler/) | Performance analysis, profiling, and optimization recommendations |
 | [performance-monitor](plugins/performance-monitor/) | Profile API endpoints and run benchmarks to identify performance bottlenecks |
@@ -940,6 +941,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,900+ | Extracted system prompts from Claude Code, updated for each release |
 | [claude-context](https://github.com/zilliztech/claude-context) | 5,600+ | Semantic code search MCP by Zilliz -- hybrid BM25 + vector search, ~40% token reduction |
 | [claude-skills](https://github.com/alirezarezvani/claude-skills) | 5,300+ | 192 skills across 9 domains with 254 Python automation tools |
+| [paco-framework](https://github.com/PenguinAlleyApps/paco-framework) | 1+ | Markdown-first multi-agent OS for Claude Code. Coordinates 3-16 specialized AI agents (Engineering, QA, Growth, Finance) with file-based dispatch, institutional memory, CEO Gate approval, and 24/7 scheduling. No Python required. MIT |
 | [peon-ping](https://github.com/PeonPing/peon-ping) | 3,900+ | Warcraft III Peon voice notifications for Claude Code and other agents |
 | [n8n-skills](https://github.com/czlonkowski/n8n-skills) | 3,400+ | Skills for building production-ready n8n workflows |
 | [claude-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | 3,300+ | Complete mastery guide for Claude Code hooks with production-ready scripts |
