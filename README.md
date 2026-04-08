@@ -1,6 +1,6 @@
 # Claude Code Toolkit
 
-**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 13 MCP configs, 26 companion apps, 51 ecosystem entries, and more.**
+**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 13 MCP configs, 26 companion apps, 52 ecosystem entries, and more.**
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -950,6 +950,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [claude-kit](https://github.com/luiseiman/claude-kit) | 1 | Configuration factory for Claude Code -- 13 composable stacks, 6 agents, audit scoring, practices pipeline. Bootstraps and maintains .claude/ across projects |
 | [Global Chat](https://github.com/pumanitro/global-chat) | -- | Cross-protocol MCP server discovery -- search 18K+ servers across 6+ registries. Also supports A2A and agents.txt. Free agents.txt validator. npm: `@global-chat/mcp-server` |
 | [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) | 95+ | Drop-in governance layer (.gaai/ folder) -- backlog authorization, cross-session memory, decision tracking, QA gates, autonomous delivery daemon. Claude Code + Cursor + Codex CLI + Gemini CLI |
+| [Wiggum CLI](https://github.com/federiconeri/wiggum-cli) | -- | Open-source AI agent that scans codebases (80+ tech), generates specs through AI interviews, and runs autonomous Ralph loops via Claude Code or Codex. Agent mode ships GitHub issues end-to-end with priority-aware scheduling and auto-merge |
 | [Claude Command Center](https://github.com/tuning-labs-oss/claude-command-center) | -- | Production-tested workspace template with session hooks, structured memory (4 types), multi-domain routing, daily task tracking, and interactive /setup onboarding. 6 domain templates, pre-commit safety, example skills |
 | [Code Insights](https://github.com/melagiri/code-insights) | 8 | Local-first CLI and dashboard for analyzing AI coding sessions from Claude Code, Cursor, Codex CLI, Copilot CLI, and VS Code Copilot. SQLite-backed with terminal analytics, browser dashboard, and LLM-powered insights |
 | [claude-code-cheat-sheet](https://cc.storyfox.cz/) | new | Complete one-page printable reference — all shortcuts, commands, CLI flags, MCP config, memory, skills, agents. Auto-updated daily from official docs. [EN](https://cc.storyfox.cz/) · [ZH](https://cc.storyfox.cz/zh/) · [JA](https://cc.storyfox.cz/jp/) · [KO](https://cc.storyfox.cz/kr/) |
